@@ -1,0 +1,58 @@
+{
+  "name": "Amir studio",
+  "relief": 1,
+  "ambient": 0.08,
+  "finish": 0,
+  "invert": false,
+  "selected": 2,
+  "lights": [
+    {
+      "id": 1,
+      "name": "Warm light",
+      "x": -1.1163227016885553,
+      "y": 0.37504690431519694,
+      "z": 1.56,
+      "color": "#ff7300",
+      "intensity": 1.95,
+      "softness": 1,
+      "spread": 1.7,
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "name": "Cool light",
+      "x": 0.9061913696060038,
+      "y": -0.7407129455909943,
+      "z": 0.8,
+      "color": "#75e8ff",
+      "intensity": 1.15,
+      "softness": 1,
+      "spread": 1.75,
+      "enabled": true
+    },
+    {
+      "id": 3,
+      "name": "Backdrop light",
+      "x": -1.992682926829268,
+      "y": 0.8097560975609757,
+      "z": -2,
+      "color": "#ff5900",
+      "intensity": 0.25,
+      "softness": 1,
+      "spread": 1.75,
+      "enabled": true
+    },
+    {
+      "id": 4,
+      "name": "Light 4",
+      "x": 1.8172607879924951,
+      "y": -0.9257035647279551,
+      "z": -2,
+      "color": "#009dff",
+      "intensity": 0.3,
+      "softness": 1,
+      "spread": 2.1,
+      "enabled": true
+    }
+  ]
+}
